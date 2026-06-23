@@ -1,4 +1,4 @@
-# HTB Write-Up: Nanocorp (Administrator Track)
+# HTB Write-Up: Nanocorp
 
 | Field      | Details                                                                  |
 |------------|--------------------------------------------------------------------------|
