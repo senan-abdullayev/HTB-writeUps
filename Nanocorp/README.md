@@ -3,10 +3,10 @@
 | Field      | Details                                                                  |
 |------------|--------------------------------------------------------------------------|
 | Platform   | [Hack The Box](https://app.hackthebox.com/machines)                      |
-| Difficulty | Medium                                                                   |
+| Difficulty | Hard                                                                     |
 | OS         | Windows                                                                  |
 | Domain     | `nanocorp.htb`                                                           |
-| Author     | Landau                                                                  |
+| Author     | Landau                                                                   |
 | Date       | June 23, 2026                                                            |
 
 ---
