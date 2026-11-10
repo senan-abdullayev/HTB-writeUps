@@ -18,10 +18,10 @@ These write-ups are created for educational purposes to help others learn penetr
 
 | Difficulty | Count | Description |
 |------------|-------|-------------|
-| 🟢 **Easy** | 2 | Beginner-friendly machines with straightforward paths |
-| 🟡 **Medium** | 1 | Moderate complexity, requiring intermediate skills |
-| 🔴 **Hard** | 0 | Complex machines requiring advanced techniques |
-| ⚫ **Insane** | 0 | Expert-level challenges with multiple layers |
+| 🟢 **Easy** | 10 | Beginner-friendly machines with straightforward paths |
+| 🟡 **Medium** | 12 | Moderate complexity, requiring intermediate skills |
+| 🔴 **Hard** | 15 | Complex machines requiring advanced techniques |
+| ⚫ **Insane** | 3 | Expert-level challenges with multiple layers |
 
 ## 📝 Write-up Format
 
